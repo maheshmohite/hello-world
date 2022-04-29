@@ -22,7 +22,7 @@
       id="psw"
       required
     />
-
+    <br />
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input
       type="password"
@@ -31,6 +31,7 @@
       id="psw-repeat"
       required
     />
+    <br />
     <hr />
 
     <p>
